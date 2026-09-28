@@ -61,7 +61,7 @@
 
 * **Intern IT Programmer** @ PT SELAMAT JAYA PERSADA *(Sep 2026 - Present)*
 * **Teacher** @ Timedoor *(Jul 2026 - Present)*
-* **Teaching Assistant** @ Universitas Bengkulu *(Feb 2024 - Jun 2025)*
+* **Teaching Assistant** @ Universitas Bengkulu *(Aug 2023 - Jun 2025)*
 
 ---
 
