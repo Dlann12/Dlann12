@@ -87,8 +87,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dlann12&show_icons=true&theme=radical" alt="Fadlan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlann12&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dlann12&theme=radical" alt="Fadlan's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dlann12&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
