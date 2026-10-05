@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Machine Learning Enthusiast | Fullstack Developer</h3>
 
 <p align="center">
-  <a href="https://dlann12.github.io/Fadlan-Portfolio/" target="_blank">
+  <a href="https://fadlandfb.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/fadlan-dwi-febrio" target="_blank">
